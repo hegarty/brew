@@ -5,6 +5,8 @@ brew "asdf"
 brew "awscli"
 # Quickly rewrite git repository history
 brew "git-filter-repo"
+# Kubernetes package manager
+brew "helm"
 # Ambitious Vim-fork focused on extensibility and agility
 brew "neovim"
 # Thin wrapper for Terraform e.g. for locking state
