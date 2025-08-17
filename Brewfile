@@ -15,3 +15,5 @@ brew "tree"
 brew "warrensbox/tap/tfswitch"
 # Command-line interface for 1Password
 cask "1password-cli"
+# Install Helm
+brew "helm"
