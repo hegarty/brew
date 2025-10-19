@@ -13,6 +13,8 @@ brew "neovim"
 brew "terragrunt"
 # Display directories as trees (with optional color/HTML output)
 brew "tree"
+# Process YAML, JSON, XML, CSV and properties documents from the CLI
+brew "yq"
 # The tfswitch command lets you switch between terraform versions.
 brew "warrensbox/tap/tfswitch"
 # Command-line interface for 1Password
