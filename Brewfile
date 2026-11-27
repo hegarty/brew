@@ -33,8 +33,6 @@ brew "node"
 brew "sops"
 # Thin wrapper for Terraform e.g. for locking state
 brew "terragrunt"
-# Command-line tool to switch between Terraform versions
-brew "tfswitch", link: false
 # Linter for YAML files
 brew "yamllint"
 # Process YAML, JSON, XML, CSV and properties documents from the CLI
